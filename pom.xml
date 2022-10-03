@@ -11,6 +11,11 @@
     <modules>
         <module>blockchain-visualized-analysis-collection</module>
         <module>blockchain-visualized-analysis-common</module>
+        <module>blockchain-visualized-analysis-links</module>
+        <module>blockchain-visualized-analysis-analyse</module>
+        <module>blockchain-visualized-analysis-auth</module>
+        <module>blockchain-visualized-analysis-member</module>
+        <module>blockchain-visualized-analysis-gateway</module>
     </modules>
 
     <parent>

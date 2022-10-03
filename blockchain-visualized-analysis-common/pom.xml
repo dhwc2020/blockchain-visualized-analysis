@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
 
     <name>blockchain-visualized-analysis-common</name>
-    <description>blockchain-visualized-analysis-common project for blockchain-visualized-analysis</description>
+    <description>公共模块</description>
 
     <parent>
         <artifactId>blockchain-visualized-analysis</artifactId>
