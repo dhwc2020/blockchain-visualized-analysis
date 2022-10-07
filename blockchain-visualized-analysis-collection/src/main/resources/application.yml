@@ -1,0 +1,6 @@
+collection:
+  server:
+    #服务端口
+    port: 3879
+    #最大可连接数
+    count: 200

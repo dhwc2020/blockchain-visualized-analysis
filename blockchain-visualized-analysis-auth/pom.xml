@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <artifactId>blockchain-visualized-analysis-auth</artifactId>
     <description>认证服务，主要做登录注册等功能</description>
-    <version>${parent.version}</version>
+    <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
